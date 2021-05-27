@@ -14,4 +14,4 @@ To install these dependencies, run the following command on the terminal:
 
 
 For a complete guide and more information about this application, please check the following link:
-[Twilio](https://www.twilio.com/blog/building-bulk-sms-service-python-flask-twilio-notify)
+[Twilio SMS Bulk Messages](https://www.twilio.com/blog/building-bulk-sms-service-python-flask-twilio-notify)
